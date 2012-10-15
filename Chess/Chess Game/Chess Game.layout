@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="AI.c" open="1" top="0" tabpos="4">
+		<Cursor position="277" topLine="0" />
+	</File>
+	<File name="AI.h" open="0" top="0" tabpos="0">
+		<Cursor position="91" topLine="0" />
+	</File>
+	<File name="Initialize.c" open="1" top="0" tabpos="7">
+		<Cursor position="2943" topLine="53" />
+	</File>
+	<File name="chessPlay.c" open="1" top="0" tabpos="2">
+		<Cursor position="1017" topLine="0" />
+	</File>
+	<File name="chessPlay.h" open="1" top="0" tabpos="3">
+		<Cursor position="705" topLine="0" />
+	</File>
+	<File name="display.c" open="1" top="0" tabpos="5">
+		<Cursor position="63" topLine="0" />
+	</File>
+	<File name="display.h" open="0" top="0" tabpos="8">
+		<Cursor position="248" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="2185" topLine="0" />
+	</File>
+	<File name="testCode.c" open="0" top="0" tabpos="8">
+		<Cursor position="20597" topLine="513" />
+	</File>
+	<File name="testCode.h" open="0" top="0" tabpos="0">
+		<Cursor position="307" topLine="0" />
+	</File>
+	<File name="validMove.c" open="1" top="1" tabpos="6">
+		<Cursor position="23734" topLine="569" />
+	</File>
+</CodeBlocks_layout_file>

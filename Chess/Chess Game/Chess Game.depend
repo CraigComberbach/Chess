@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1323109616 source:z:\personal\programs\firmwares\c\chess\chess game\initialize.c
+	<stdio.h>
+	"chess.h"
+	"chessPlay.h"
+
+1319041962 z:\personal\programs\firmwares\c\chess\chess game\chess.h
+
+1322677309 source:z:\personal\programs\firmwares\c\chess\chess game\display.c
+	<stdio.h>
+	<stdlib.h>
+	"chess.h"
+
+1323108293 source:z:\personal\programs\firmwares\c\chess\chess game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"initialize.h"
+	"display.h"
+	"validMove.h"
+	"chessPlay.h"
+
+1310147528 source:z:\personal\programs\firmwares\c\chess\chess game\testcode.c
+	<stdio.h>
+	<stdlib.h>
+	"chess.h"
+
+1323109519 source:z:\personal\programs\firmwares\c\chess\chess game\validmove.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"initialize.h"
+	"chessPlay.h"
+	"AI.h"
+
+1320689376 source:z:\personal\programs\firmwares\c\chess\chess game\ai.c
+	<stdio.h>
+	<stdlib.h>
+
+1322590890 source:z:\personal\programs\firmwares\c\chess\chess game\chessplay.c
+	<stdio.h>
+	"display.h"
+	"validMove.h"
+	"chessPlay.h"
+
+1319041234 z:\personal\programs\firmwares\c\chess\chess game\initialize.h
+
+1320863197 z:\personal\programs\firmwares\c\chess\chess game\display.h
+
+1322245163 z:\personal\programs\firmwares\c\chess\chess game\chessplay.h
+
+1320423416 z:\personal\programs\firmwares\c\chess\chess game\ai.h
+
+1319041714 z:\personal\programs\firmwares\c\chess\chess game\validmove.h
+

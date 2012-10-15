@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="AI.c" open="0" top="0" tabpos="0">
+		<Cursor position="59" topLine="0" />
+	</File>
+	<File name="Initialize.c" open="1" top="0" tabpos="4">
+		<Cursor position="970" topLine="22" />
+	</File>
+	<File name="chess.h" open="1" top="0" tabpos="2">
+		<Cursor position="1740" topLine="0" />
+	</File>
+	<File name="chessPlay.c" open="0" top="0" tabpos="0">
+		<Cursor position="1460" topLine="0" />
+	</File>
+	<File name="display.c" open="0" top="0" tabpos="3">
+		<Cursor position="1405" topLine="0" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="4">
+		<Cursor position="1485" topLine="7" />
+	</File>
+	<File name="testCode.c" open="1" top="0" tabpos="1">
+		<Cursor position="19184" topLine="486" />
+	</File>
+	<File name="validMove.c" open="1" top="1" tabpos="3">
+		<Cursor position="737" topLine="10" />
+	</File>
+</CodeBlocks_layout_file>
